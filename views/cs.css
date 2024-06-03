@@ -1,0 +1,740 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+
+
+
+
+
+.qqq{
+    height: 100vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6),
+    rgba(0, 0, 0, 0.6)), url("/static/netflixx.jpg");
+    color: white;
+}
+
+.ruby{
+    display: flex;
+    justify-content: space-around;
+    /*background-color: blue;*/
+    height: 100px;
+    align-items: center;
+
+}
+
+.sss{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    /*background-color: brown;*/
+    height: 450px;
+    text-align: center;
+}
+
+.rrr button{
+    padding: 5px;
+    background-color: transparent;
+    color: white;
+    height: 35px;
+    width: 90px;
+
+}
+
+.rrr .aaa{
+    background-color: red;
+    border-radius: 5px;
+}
+
+.hello{
+    height: 50px;
+    /*background-color: aqua;*/
+}
+
+.sss .l{
+    font-weight:900;
+    font-size: 40px;
+}
+
+.sss .m{
+    margin-top: 10px;
+    font-size: 30px;
+}
+ 
+.sss .k{
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+.hello{
+    margin-top: 10px;
+}
+
+.hello input{
+    border-radius: 5px;
+    color: white;
+    border-color: grey;
+    background:none;
+    margin-right: 10px;
+    height: 50px;
+    width: 320px;
+}
+
+.hello {
+    color: white;
+}
+
+.hello button{
+    color: white;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: red;
+    height: 55px;
+    width: 220px;
+}
+
+
+
+.ruby svg{
+    background:none;
+    fill: red;
+    height: 50px;
+    width: 150px;
+}
+
+.www{
+    border:5px solid rgb(71, 71, 71);
+    width: 99%;
+}
+
+.page2{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.cc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-color: blue;*/
+    height: 75vh;
+    width: 50vw;
+}
+
+.vv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:75vh;
+    width: 50vw;
+    /*background-color: brown;*/
+    color: white;
+}
+
+.p1{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+
+}
+
+.p2{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+}
+
+.p3{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+}
+
+.vv img{
+    position: absolute;
+    max-width: 35%;
+    max-height: 48%;
+    z-index: 1;
+}
+
+.vv video{
+    position: relative;
+    top: -1%;
+    right: 0%;
+    width: 50%;
+}
+
+.zzz{
+    border:5px solid rgb(71, 71, 71);
+    width:99%;
+}
+
+.page3{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color: black;
+}
+
+.llll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-color: blue;*/
+    height: 75vh;
+    width: 50vw;
+}
+
+.p4{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+
+}
+
+.p5{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+}
+
+.bb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:75vh;
+    width: 50vw;
+    /*background-color: brown;*/
+    color: white;
+}
+
+.xxx{
+    border:5px solid rgb(71, 71, 71);
+    width: 99%;
+}
+
+.page4{
+    display: flex;
+    background-color: black;
+}
+
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 50%;
+    height: 75vh;
+}
+
+.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width: 50vw;
+    /* background-color: brown; */
+    color: white;
+}
+
+.box2 video{
+    width: 41%;
+    position: relative;
+    top: -11%;
+    height: auto;
+
+}
+
+.box2 img{
+    z-index: 1;
+    position: absolute;
+    height: auto;
+    width: 33%;
+}
+
+
+.popo1{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+
+}
+
+.popo2{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+}
+
+.popo3{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+}
+.popo4{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+    
+}
+
+.b2 video{
+    position: relative;
+    top: -1%;
+    right: 0%;
+    width: 50%;
+
+}
+
+.page5{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: black;
+}
+
+.box3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 50%;
+    height: 75vh;
+}
+
+.box4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 50%;
+    height: 75vh;
+}
+
+.popo5{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+
+}
+
+.popo6{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+}
+
+.popo7{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+}
+.popo8{
+    color: white;
+    font-size:25px;
+    font-weight: 400;
+    
+}
+
+.box5{
+    background-color: black;
+}
+
+
+.popo9{
+    color: white;
+    background-color: black;
+
+}
+
+.power{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items:end;
+}
+
+.power p{
+    text-align: center;
+    border: 2px solid black;
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.power2 .s1{
+    border: 2px solid black;
+    background-color: rgb(37, 37, 37);
+    font-size: 25px;
+    font-weight:500;
+
+}
+.power2{
+    margin-top: 25px;
+}
+
+.power2 .s1{
+    padding: 25px;
+    margin-top: 8px;
+}
+
+.power2 .border1{
+    height: 30px;
+    width: 0px;
+}
+
+.power2 .s1{
+    display: flex;
+    justify-content:space-between;
+}
+
+.s1{
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+
+.lol{
+    display: flex;
+    justify-content: center;
+}
+
+.power2 .s1 .border1{
+    margin-right: 30px;
+}
+
+.bottom{
+    background-color: black;
+    height: 200px;
+}
+
+.india2 button a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.bottom p{
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    font-weight:500;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.india2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.india2 input{
+    width: 400px ;
+}
+
+.india2 button{
+    color: white;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: red;
+    height: 55px;
+    width: 220px;
+}
+
+.india2 input{
+    border-radius: 5px;
+    color: white;
+    border-color: grey;
+    background:none;
+    margin-right: 10px;
+    height: 50px;
+    width: 320px;
+}
+
+.grid{
+    margin-top: 10px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.grid ul{
+    list-style: none;
+    text-decoration: underline;
+}
+
+.oo{
+    color: white;
+    margin-top: 60px;
+    display: flex;
+}
+
+.button2{
+    margin-top: 20px;
+}
+.button2 button{
+    padding: 5px;
+    background-color: transparent;
+    color: white;
+    height: 35px;
+    width: 90px;
+    border-color:grey;
+}
+
+.superman{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid ul li a{
+    color: white;
+}
+
+.ppp{
+    width: 1200px;
+}
+
+.grid ul li{
+    line-height: 30px;
+}
+
+.ben{
+    margin-top: 20px;
+    color: white;
+}
+
+.loli{
+    background-color: black;
+    height: 400px;
+}
+
+@media only screen and (max-width:1293px){
+    .page2{
+        flex-direction: column;
+        height: 700px;
+        /*background-color: pink;*/
+        align-items: center;
+     
+    }
+
+    .lolu{
+        height: 201px;
+    }
+
+    .cc{
+        height: 55%;
+    }
+
+    .cc{
+        display: flex;
+        align-items: center;
+    }
+    
+
+    .vv{
+        height: 400px;
+    }
+
+    .bb img{
+        width: 300px;
+    }
+
+
+    .llll{
+        height: 700px;
+    }
+
+    .page3{
+        flex-direction: column;
+        height: 850px;
+        /*background-color: pink;*/
+        align-items: center;
+    }
+    .page4{
+        flex-direction: column;
+        height: 850px;
+        /*background-color: pink;*/
+        align-items: center;
+    }
+
+    .box1{
+        height: 450px;
+    }
+    .box2{
+        height: 300px;
+    }
+
+    .page5{
+        flex-direction: column;
+        height: 850px;
+        /*background-color: pink;*/
+        align-items: center;
+    }
+
+    .box3{
+        height: 550px;
+    }
+
+    .box4{
+        height: 300px;
+    }
+
+    .box4 img{
+        height: 200px;
+    }
+
+    .box5{
+        flex-direction: column;
+        height: 1250px;
+        /*background-color: pink;*/
+        align-items: center;
+    }
+
+   .power{
+    height: 250px;
+   }
+
+   
+
+   .popo9{
+    height: 1000px;
+   }
+
+   .india2{
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .india2 button{
+    margin-top: 10px;
+   }
+
+  
+  
+
+   .loli{
+    height: 500px;
+   }
+
+   .superman{
+    height: 500px;
+   }
+
+   .box2 video{
+    top: -18%;
+    width: 43%;
+    position: relative;
+    height: auto;
+   }
+
+   .box2 img{
+    position: absolute;
+    height: auto;
+   }
+
+
+ 
+}
+
+@media only screen and (max-width:1044px){
+    .box2 img{
+        height: auto;
+        position: absolute;
+        width: 36%;
+    }
+
+}
+
+@media only screen and (max-width:850px){
+    .box2 img{
+        height: auto;
+        position: absolute;
+        width: 36%;
+    }
+
+    .box2 video{
+        height: auto;
+        position: relative;
+        width: 45%;
+        top: -15%;
+    }
+    
+
+}
+
+@media only screen and (max-width:770px){
+    .box2 img{
+        height: auto;
+        position: absolute;
+        width: 36%;
+    }
+
+    .box2 video{
+        height: 30%;
+        position: relative;
+        width: auto;
+        top: -13%;
+    }
+    
+
+}
+
+@media only screen and (max-width:680px){
+    .box2 video{
+        width: auto;
+        height: 29%;
+        POSITION: relative;
+        top: -12%;
+    }
+
+    .box2 img{
+        height: 29%;
+        position: absolute;
+        width: auto;
+    }
+}
+
+.page1{
+    /*background-color: palevioletred;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    font-size:40px;
+    font-weight: 900;
+}
+
+
+
+.form2{
+    /*background-color: aqua;*/
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form2 input{
+    width: 600px;
+    text-align: center;
+    height: 40px;
+    margin: 10px;
+}
+
+.overall{
+    background: url("/static/mm.png");
+    background-size: cover;
+}
+
